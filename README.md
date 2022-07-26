@@ -1,19 +1,27 @@
-# task-list-apps
+# Todo List Task with Vue
+
+> This is a simple project task to do with vue 3
 
 ## Project setup
+
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
+## Run the JSON-Server backend (http://localhost:5000)
+
 ```
-yarn serve
+npm run backend
 ```
 
-### Compiles and minifies for production
+## Run the Vue dev server (http://localhost:8080)
+
 ```
-yarn build
+npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Compiles and minifies for production
+
+```
+npm run build
+```
